@@ -2,3 +2,4 @@ BaeSoo Resolution
 - Konsisten belajar Web Programing
 - Membuat platform
 - Repeat
+- Bisa HTML/CSS dan Javascript
