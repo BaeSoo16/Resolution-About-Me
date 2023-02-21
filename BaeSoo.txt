@@ -3,3 +3,4 @@ BaeSoo Resolution
 - Membuat platform
 - Repeat
 - Membuat website
+- ingin bisa javascript
